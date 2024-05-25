@@ -1,4 +1,4 @@
-//package Sem2;
+
 
 interface ActorBehaviour {
     void setMakeOrder(boolean makeOrder);
